@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "만약이라는 건 없어 (What if)",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-03T08:40:33.363956Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "만약이라는 건 없어 (What if)",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_만약이라는_건_없어_(What_if)_NiziU.txt"
+    }
+  ]
+}
